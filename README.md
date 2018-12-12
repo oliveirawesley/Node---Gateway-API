@@ -1,9 +1,9 @@
-#Full Stack Shaw and Partners Test# 
+##Full Stack Shaw and Partners Test
 
 😊 **Author:** Wesley Oliveira
 ✉️ **Email:** [wmoraisoliveira@gmail.com](mailto:wmoraisoliveira@gmail.com)
 
-Use commands to run application:
+**Use this commands to run application:**
 
 * npm install or yarn to download the dependences
 
